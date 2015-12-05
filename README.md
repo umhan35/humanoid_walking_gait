@@ -1,10 +1,12 @@
 # Humanoid Walking Gait
 
-This code was written during <a href="https://docs.google.com/document/d/1mPWBGmQyCL091ZmEOl5VE-HMGXpkN_5cPioKWj16Hgo/pub">the Humanoid Robotics class</a> taught by <a href="http://www.cs.umanitoba.ca/~jacky/">Dr. Jacky Baltes</a>. It contains:
+This code was written during <a href="https://docs.google.com/document/d/1mPWBGmQyCL091ZmEOl5VE-HMGXpkN_5cPioKWj16Hgo/pub">the Humanoid Robotics class</a> taught by <a href="http://www.cs.umanitoba.ca/~jacky/">Dr. Jacky Baltes</a> during the fall in 2014. It contains:
 - an implementation of forward and inverse kinematics for a teen-sized humanoid (<a href="https://docs.google.com/document/d/1DC1oZSwRnXxOZyOl3Uws5lCSxL411XOLhUKwFWYq-7w/pub">Assignment 1</a>)
 - an implementation of a parameterized walking engine by applying bézier curve for the humanoid (<a href="https://docs.google.com/document/d/1xn-Vz_1iDdZaxjkU-f0krdVOTQELIBOWTNv0RW_a9qY/pub">Assignment 2</a> & <a href="https://docs.google.com/document/d/16tFkeojwIg4bChwQuD_m7U0C73lbdEWQNqBkyzHhOx0/pub">Assignment 3</a>)
 
 It's written in `python3`. `matplotlib` and some other packages are used.
+
+When the work is 80% done, I took a video using my phone while testing and <a href="">uploaded to YouTube</a>. You can see the real robot and how it walks. The final result is more stable than shown in the video.
 
 ## How to run
 
